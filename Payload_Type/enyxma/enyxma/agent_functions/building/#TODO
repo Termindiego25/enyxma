@@ -1,0 +1,6 @@
+- Añadir comando cd
+- Probar alternativas a shell_exec
+
+
+!- Implementar file_browser:ls
+!- Intentar comando interactive
