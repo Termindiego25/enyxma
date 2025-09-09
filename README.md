@@ -113,4 +113,4 @@ Please follow **PEP8** and comment in **English**.
 
 ## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for details. 
+Distributed under the **GPL-3.0 license**. See `LICENSE` for details. 
