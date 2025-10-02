@@ -114,3 +114,9 @@ Please follow **PEP8** and comment in **English**.
 ## 📜 License
 
 Distributed under the **GPL-3.0 license**. See [LICENSE](LICENSE) for details. 
+
+---
+
+## 👨‍💻 Author
+
+Developed by **[Termindiego25](https://www.diegosr.es)** as part of the **Master’s Thesis** of my **Master's Degree in Cybersecurity and Cyberintelligence**.
